@@ -1,0 +1,40 @@
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\bin\Debug\QuanLyKho-Tuan1.exe.config
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\bin\Debug\QuanLyKho-Tuan1.exe
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\bin\Debug\QuanLyKho-Tuan1.pdb
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho-Tuan1.csproj.AssemblyReference.cache
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho_Tuan1.Properties.Resources.resources
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho-Tuan1.csproj.GenerateResource.cache
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho-Tuan1.csproj.CoreCompileInputs.cache
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho-Tuan1.exe
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho-Tuan1.pdb
+J:\2022-2023\Semester-1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\bin\Debug\QuanLyKho-Tuan1.exe.config
+J:\2022-2023\Semester-1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\bin\Debug\QuanLyKho-Tuan1.exe
+J:\2022-2023\Semester-1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\bin\Debug\QuanLyKho-Tuan1.pdb
+J:\2022-2023\Semester-1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho-Tuan1.csproj.AssemblyReference.cache
+J:\2022-2023\Semester-1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho_Tuan1.QuanLyLoaiHang.resources
+J:\2022-2023\Semester-1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho_Tuan1.Properties.Resources.resources
+J:\2022-2023\Semester-1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho-Tuan1.csproj.GenerateResource.cache
+J:\2022-2023\Semester-1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho-Tuan1.csproj.CoreCompileInputs.cache
+J:\2022-2023\Semester-1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho-Tuan1.exe
+J:\2022-2023\Semester-1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho-Tuan1.pdb
+J:\2022-2023\Semester-1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho_Tuan1.QuanLyDonViTinh.resources
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho_Tuan1.FrmMain.resources
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho_Tuan1.FrmQuanLyPhieuNhap.resources
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho_Tuan1.FrmThemPhieuNhap.resources
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho_Tuan1.FrmQuanLyKho.resources
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho_Tuan1.FrmQuanLyDonViTinh.resources
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho_Tuan1.FrmQuanLyLoaiHang.resources
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho_Tuan1.FrmThemKho.resources
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho_Tuan1.FrmThemPhieuXuat.resources
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho_Tuan1.FrmDangNhap.resources
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho_Tuan1.FrmQuanLyHangHoa.resources
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho_Tuan1.FrmSuaPhieuNhap.resources
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho_Tuan1.FrmSuaKho.resources
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho_Tuan1.FrmQuanLyNguoiDung.resources
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho_Tuan1.FrmQuanLyDonViTinhHangHoa.resources
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho_Tuan1.FrmQuanLyLoaiHangHangHoa.resources
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho_Tuan1.FrmQuanLyPhieuXuat.resources
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho_Tuan1.FrmSuaPhieuXuat.resources
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho_Tuan1.FrmNhatKy.resources
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho_Tuan1.FrmThongKeKho.resources
+J:\2022-2023\Semester 1\Phát triển ứng dụng với CSDL\QuanLyKho-Tuan1\obj\Debug\QuanLyKho-Tuan1.csproj.ResolveComReference.cache
